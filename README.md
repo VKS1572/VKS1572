@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, and Cloud Fundamentals**
 
-- 💬 Ask me about **Spring Boot,Java**
+- 💬 Ask me about **Spring Boot,Java,Sql**
 
 - 📫 How to reach me **vikspradhan622@gmail.com**
 
