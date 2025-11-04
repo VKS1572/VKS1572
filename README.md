@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Pradhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vks1572" alt="vks1572" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, and Cloud Fundamentals**
 
