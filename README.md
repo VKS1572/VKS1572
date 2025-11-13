@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Spring Boot, Microservices & System Design**  
 - 🤝 Exploring **Open-Source (GSoC 2025)**  
 - 💡 I love building real-world backend applications  
-//- 🏆 Goal: Become a strong **Backend Engineer**  
+- 🏆 Goal: Become a strong **Backend Engineer**  
 - 📬 You can reach me at **vikaspradhan622@gmail.com**
 
 ---
