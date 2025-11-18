@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+### 👨‍💻 About Me  
 - 🌱 I’m currently learning **Spring Boot, Microservices & System Design**  
 - 🤝 Exploring **Open-Source (GSoC 2025)**  
 - 💡 I love building real-world backend applications  
