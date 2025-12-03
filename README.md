@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=34&pause=900&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Vikas+Pradhan!;Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=34&pause=900&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Vikas+Pradhan!;Software+Developer;Spring+Boot+%7C+Java+%7C+MySQL)](https://git.io/typing-svg)
 
 
 
