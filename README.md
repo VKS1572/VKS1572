@@ -62,4 +62,4 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-💬 _Drop a message if you want to collaborate!_
+💬 Drop a message if you want to collaborate!
