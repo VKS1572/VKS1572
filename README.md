@@ -99,13 +99,13 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 <h3 align="center">🧠 Coding & Problem Solving</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/VKS1572/">
+    <img src="https://img.shields.io/badge/LeetCode-Vikas%20Pradhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>DSA • Algorithms • Java • Competitive Problem Solving</b>
+  <b>DSA • Algorithms • Java • Problem Solving</b>
 </p>
 
 ---
@@ -113,9 +113,21 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 <h3 align="center">🐍 Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
-
 ---
 
 <h3 align="center">🌐 Connect With Me</h3>
