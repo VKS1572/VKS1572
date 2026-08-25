@@ -88,11 +88,6 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VKS1572&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
 
 ---
 
