@@ -46,13 +46,25 @@
 <h4 align="center">🗄️ Databases</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-<h4 align="center">🛠️ Tools & Technologies</h4>
+<h4 align="center">☁️ Cloud, DevOps & Infrastructure</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
+</p>
+
+<h4 align="center">🛠️ Tools</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
+
+<h4 align="center">🤖 AI</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -78,12 +90,25 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VKS1572&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=VKS1572&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=VKS1572&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Vikas GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=VKS1572&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Vikas GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKS1572&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=VKS1572&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
