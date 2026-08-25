@@ -128,6 +128,7 @@ An interactive project that visualizes pathfinding algorithms and helps understa
     />
   </picture>
 </p>
+
 ---
 
 <h3 align="center">🌐 Connect With Me</h3>
