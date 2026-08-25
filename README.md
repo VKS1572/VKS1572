@@ -110,24 +110,7 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 
 ---
 
-<h3 align="center">🐍 Contributions</h3>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/VKS1572/VKS1572/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
 
 ---
 
