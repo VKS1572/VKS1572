@@ -92,23 +92,15 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=VKS1572&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="Vikas GitHub Stats"
+    width="32%"
+    alt="GitHub Stats"
   />
-
   <img
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=VKS1572&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Vikas GitHub Streak"
+    width="32%"
+    alt="GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=VKS1572&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
+  
 </p>
 
 ---
