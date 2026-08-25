@@ -131,6 +131,19 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 
 ---
 
+<h3 align="center">👾 Contributions Pacman</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/VKS1572/VKS1572/output/pacman-contribution-graph.svg"
+    alt="Pacman Contribution Graph"
+  />
+</p>
+
+---
+
+---
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
