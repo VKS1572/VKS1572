@@ -111,7 +111,7 @@ An interactive project that visualizes pathfinding algorithms and helps understa
 <h3 align="center">🧠 Coding & Problem Solving</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/VKS1572/">
+  <a href="https://leetcode.com/u/Vikas1572/">
     <img src="https://img.shields.io/badge/LeetCode-Vikas%20Pradhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
